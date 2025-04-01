@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Manu, student in Networking and Full-Stack web development
+Hi! I'm Manu,a student in Networking and Full-Stack web development
 
 
 ## 🌐 Socials:
