@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Emilio, a Full-Stack web developer
+Hi! I'm Emilio, a Full-Stack web developer
 
 
 ## 🌐 Socials:
